@@ -1,0 +1,27 @@
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojAssemblyReference.cache
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\Gabriel Limberg-ACC\source\repos\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojAssemblyReference.cache
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\adaml\Desktop\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojAssemblyReference.cache
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.cache
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\adaml\Desktop\Programs\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
